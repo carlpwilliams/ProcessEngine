@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwarmProccessor", "SwarmProccessor\SwarmProccessor.csproj", "{2305B969-EC76-4BF0-8031-69B112A06DA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwarmCL", "SwarmCL\SwarmCL.csproj", "{6D8F2CF2-C672-448F-AA32-7518E7D9F524}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2305B969-EC76-4BF0-8031-69B112A06DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2305B969-EC76-4BF0-8031-69B112A06DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2305B969-EC76-4BF0-8031-69B112A06DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D8F2CF2-C672-448F-AA32-7518E7D9F524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8F2CF2-C672-448F-AA32-7518E7D9F524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8F2CF2-C672-448F-AA32-7518E7D9F524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8F2CF2-C672-448F-AA32-7518E7D9F524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
